@@ -1,0 +1,13 @@
+matplotlib
+
+sentencepiece
+datasets
+fairscale
+transformers
+tqdm
+
+torch
+
+notebook
+ipython
+jupyter
